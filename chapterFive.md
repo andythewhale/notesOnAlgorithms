@@ -1,0 +1,1 @@
+Chapter five just went over dictionaries. String goes in and number comes out. It talked about cached webpages. It also talked about arrays, lists, and how dictionaries kind of combine the best of both worlds. However, it also has the potential to combine the worst of both lists and arrays. Dictionaries just need to be used in the correct situaition. 
